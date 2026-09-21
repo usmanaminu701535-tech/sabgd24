@@ -1,0 +1,52 @@
+{
+  "today": [
+    {
+      "team_a": "SB24 Team A",
+      "team_b": "SB24 Team B",
+      "score_a": 2,
+      "score_b": 1,
+      "status": "បានបញ្ចប់",
+      "time": "14:00"
+    },
+    {
+      "team_a": "SB24 Team C",
+      "team_b": "SB24 Team D",
+      "score_a": 0,
+      "score_b": 0,
+      "status": "កំពុងប្រកួត",
+      "time": "16:30"
+    }
+  ],
+  "fixtures": [
+    {
+      "team_a": "SB24 Team A",
+      "team_b": "SB24 Team C",
+      "date": "2026-09-25",
+      "time": "15:00",
+      "venue": "SB24 Stadium"
+    },
+    {
+      "team_a": "SB24 Team B",
+      "team_b": "SB24 Team D",
+      "date": "2026-09-26",
+      "time": "18:00",
+      "venue": "SB24 Arena"
+    }
+  ],
+  "results": [
+    {
+      "team_a": "SB24 Team B",
+      "team_b": "SB24 Team A",
+      "score_a": 1,
+      "score_b": 3,
+      "date": "2026-09-18"
+    },
+    {
+      "team_a": "SB24 Team D",
+      "team_b": "SB24 Team C",
+      "score_a": 2,
+      "score_b": 2,
+      "date": "2026-09-17"
+    }
+  ]
+}
